@@ -11,13 +11,15 @@ Source:
 
 The source of the dynamic community detection algorithm implemented here is:
 
-	Dynamic Social Community Detection and Its Applications - Nam P. Nguyen, Thang N. Dinh, Yilin Shen, My T. Thai
+	Dynamic Social Community Detection and Its Applications (2014) - Nam P. Nguyen, Thang N. Dinh, Yilin Shen, My T. Thai
 	
 
 Requirements:
 
 python-louvain==0.10
+
 networkx==1.11
+
 numpy==1.13.1
 
 
